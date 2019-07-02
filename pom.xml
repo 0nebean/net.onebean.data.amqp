@@ -17,11 +17,6 @@
     <name>net.onebean.amqp</name>
     <description>amqp for onebean</description>
 
-    <properties>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <java.version>1.8</java.version>
-    </properties>
-
 
     <dependencies>
         <!-- amqp -->

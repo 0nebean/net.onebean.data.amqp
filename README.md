@@ -1,5 +1,1 @@
-# net.onebean.redis
-onebean redis 依赖
-
-
-更多介绍和API请参考这里:[kepler.onebean.net](http://kepler.onebean.net/doc/1.1.0.4.RELEASE/z0004)
+#### 该模块中包含了对 `spring-boot-starter-amqp` 的依赖,和对AMQP设置ConfirmCallback的配置.
